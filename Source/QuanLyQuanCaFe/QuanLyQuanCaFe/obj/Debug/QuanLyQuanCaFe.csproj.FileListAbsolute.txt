@@ -1,0 +1,26 @@
+E:\Projects\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.exe.config
+E:\Projects\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.exe
+E:\Projects\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.pdb
+E:\Projects\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csprojResolveAssemblyReference.cache
+E:\Projects\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fLogin.resources
+E:\Projects\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.Properties.Resources.resources
+E:\Projects\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.GenerateResource.Cache
+E:\Projects\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.CoreCompileInputs.cache
+E:\Projects\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.exe
+E:\Projects\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.pdb
+E:\Projects\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fTableManager.resources
+E:\Projects\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fAccountProfile.resources
+E:\Projects\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fAdmin.resources
+E:\Projects\Projects Online\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.exe.config
+E:\Projects\Projects Online\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.exe
+E:\Projects\Projects Online\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.pdb
+E:\Projects\Projects Online\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csprojResolveAssemblyReference.cache
+E:\Projects\Projects Online\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fAccountProfile.resources
+E:\Projects\Projects Online\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fAdmin.resources
+E:\Projects\Projects Online\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fLogin.resources
+E:\Projects\Projects Online\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fTableManager.resources
+E:\Projects\Projects Online\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.Properties.Resources.resources
+E:\Projects\Projects Online\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.GenerateResource.cache
+E:\Projects\Projects Online\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.CoreCompileInputs.cache
+E:\Projects\Projects Online\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.exe
+E:\Projects\Projects Online\QuanLyQuanCaFe\Source\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.pdb
